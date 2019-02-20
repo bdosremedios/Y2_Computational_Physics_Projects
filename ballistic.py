@@ -98,16 +98,16 @@ plt.savefig("ballistic.pdf")  # saves plot
 # Print Statements
 
 # distance to impact is final x position in x position column
-print("Q1: Distance to impact is D={}m".format(approx[:, 0][-1]))
+print("Distance to impact is D={}m".format(approx[:, 0][-1]))
 
 # maximum height is max value in y position column
-print("Q2: The maximum height reached is H={}m".format(np.max(approx[:, 1])))
+print("The maximum height reached is H={}m".format(np.max(approx[:, 1])))
 
 # time of flight is value of final time step or last t value in t array
-print("Q3: The time if flight is T={}s".format(tmaxnew))
+print("The time if flight is T={}s".format(tmaxnew))
 
 # final velocity's components is last vx and last vy corresponding
 # to final positive or zero y value
-print("Q4: The final velocity v=<{},{}>m/s".format(approx[:, 2][-1],
-                                                   approx[:, 3][-1]))
+print("The final velocity v=<{},{}>m/s".format(approx[:, 2][-1],
+                                               approx[:, 3][-1]))
 
