@@ -1,0 +1,11 @@
+
+import numpy
+#Q1
+vegetables = numpy.array(["spinach", "bok choy", "corn", "potato", "lettuce"])
+print(vegetables)
+#Q2
+pointnums = numpy.array([1.0,2.0,3.0pointnums = numpy.array([1,2,3])
+])
+pointnums.float4
+print(pointnums)
+print("which is data

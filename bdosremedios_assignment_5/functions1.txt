@@ -1,0 +1,12 @@
+#Line 9 will give an error as it does not match the indentation level of line
+#number 8
+
+#Line 10 will give an error since foo requires a input parameter a and none
+#is given
+
+#Line 13 as foo requres a number for a, and 13 only changes the b value not
+#giving a number to be used as a.
+
+#Line 15 will give an error as the np not put in front of pi and pi is not
+#defined, the entry needs to be d = -np.pi
+

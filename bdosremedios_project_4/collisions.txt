@@ -1,0 +1,1 @@
+The fitted temperature is : 140.12123093984442 K

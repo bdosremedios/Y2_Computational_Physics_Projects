@@ -1,0 +1,6 @@
+Q1: When dt is too large, the animation seems to instantaneously fill to an even colour of teal when it diverges.
+    Further, there seemed to be a checkered pattern emerging from the teal in pcolormesh at much higher dt values.
+Q2: 2.1e-2s (It diverges just at the end of the 10s animation)
+Q3: 0.01
+Q4: It was still around 10.0 when it diverged
+Q5: 1e-1s

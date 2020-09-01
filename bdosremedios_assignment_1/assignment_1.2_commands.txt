@@ -1,0 +1,13 @@
+cd
+ls -all
+(copied text)
+nano assignment_1.2_home.txt
+(pasted text)
+^X
+cd /
+ls -all
+(copied text)
+cd
+nano assignment_1.2_root.txt
+(pasted text)
+^X

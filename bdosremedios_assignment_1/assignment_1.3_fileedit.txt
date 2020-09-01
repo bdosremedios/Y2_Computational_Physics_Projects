@@ -1,0 +1,1 @@
+grep the course_organisation.txt | wc --lines

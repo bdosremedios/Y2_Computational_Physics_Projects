@@ -1,0 +1,5 @@
+cd
+mkdir bdosremedios_assignment_1
+chmod u+rwx bdosremedios_assignment_1
+chmod o+r-x bdosremedios_assignment_1
+chmod u+r-x bdosremedios_assignment_1

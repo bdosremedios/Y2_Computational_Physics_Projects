@@ -1,0 +1,14 @@
+1	valid
+2	invalid -b is not a valid variable
+3	invalid a b does not have an operator between them
+4	valid
+5	invalid b has not been defined as it was invalid  in previous question
+6	valid
+7	valid
+8	invalid * is not a valid operator on a string and a_string is a string
+9	invalid can not combine number and string
+10	valid
+13	invalid there is a space between l _character making it an invalid variable
+14	valid
+15	valid
+16	invalid can not compare a string and a number with less than

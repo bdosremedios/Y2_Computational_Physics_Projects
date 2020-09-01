@@ -1,0 +1,11 @@
+#ARRAY
+#4 produces an error because it is trying to add an array with 5 elements to an array of 4 elements which is undefined due to the two not matchign in the number of elements they have and thus not being able to add due to b mssing one
+#5 this line takes each row of c and adds a to each then stores the final 4 by 5 array in variable e
+#6 produces an error because b has 4 elements and each row in c has 5, so each element in each ros of c can not be multiplied by each element of b due to b missing a fifth element
+#7 this line inverts the array c making it a 5 by 4 array and then multiplies all 5 rows of the array by b which works now since the rows have 4 elements and b has 4 elements. The first element in the row is multiplied by the first element of b and so on and so forth   
+
+#MATRIX
+#4 produces an error because adding two matrices with unmatched columns is underfined (in this case trying to add one of 5 columns to one of 4)
+#5 adds each element of the matrix a to each row of the matrix c individually similar to how it did in the array
+#6 multiplies each column of c by every element of b and adds the individual column together to from one number, creating a 1 by 5 matrix
+#7 produces an error because the number of elements in b does not match the number of rows in the inverted c which is 5, thus the multiplication is undefined due to unmatchign b columns and c.T rows
